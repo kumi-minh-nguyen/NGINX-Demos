@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: NGINX-Demos
+  annotations:
+    github.com/project-slug: kumi-minh-nguyen/NGINX-Demos
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
